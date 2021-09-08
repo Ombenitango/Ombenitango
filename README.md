@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+### Hi there i'm software engineer from techdealers company
 
 - 🔭 I’m currently working on ... Tmusic app
 - 🌱 I’m currently learning ... Machine learning and Blockchain technology
