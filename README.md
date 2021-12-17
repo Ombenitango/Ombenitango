@@ -1,4 +1,4 @@
-### Hi there i'm software engineer from techdealers company
+### Hi there i'm software engineer
 
 - 🔭 I’m currently working on ... Tmusic app
 - 🌱 I’m currently learning ... Machine learning and Blockchain technology
