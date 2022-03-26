@@ -1,6 +1,6 @@
 ### Hi there i'm software engineer
 
-- 🔭 I’m currently working on ... Tmusic app
+- 🔭 I’m currently working on ... my own projects
 - 🌱 I’m currently learning ... Machine learning and Blockchain technology
 - 👯 I’m looking to collaborate on ... Machine learning and Blockchain technology
 - 🤔 I’m looking for help with ...
