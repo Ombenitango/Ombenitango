@@ -1,4 +1,4 @@
-# Hi my name is  Ombeni Tango
+# Hi my name is  Ombeni Nade
 ## I'm a software engineer passionate about learning and tackling complex tasks
 -  Proficient in JavaScript, Java, Python, PHP, C#, Dart, and MQL5,
 -  I enjoy turning new Ideas into practical applications for web, Android, data science and Game development.
