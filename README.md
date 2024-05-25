@@ -1,5 +1,5 @@
 # Hi my name is  Ombeni Nade
-## I'm a software engineer passionate about learning and tackling complex tasks
+## I'm a software engineer passionate about learning and tackling interesting tasks
 -  Proficient in JavaScript, Java, Python, PHP, C#, Dart, and MQL5,
 -  I enjoy turning new Ideas into practical applications for web, Android, data science and Game development.
 - 🔭 I’m currently working on ... my own projects
